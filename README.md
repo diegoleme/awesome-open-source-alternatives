@@ -1,4 +1,6 @@
-# Open-source Alternatives
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+# Awesome Open-source Alternatives 
 > Inspired by [opensource.builders](https://opensource.builders/)
 
 ## Apps
