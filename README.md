@@ -118,8 +118,8 @@ Curating the best open-source alternatives for famous apps.
 - [Verdaccio](https://github.com/verdaccio)
 - [Nexus](https://github.com/sonatype/nexus-public)
 
-### [Netlify]()
-- [](https://github.com/)
+### [Netlify](https://netlify.com)
+- [StaticDeploy](https://github.com/staticdeploy)
 
 ### [Salesforce](https://salesforce.com/)
 - [Odoo](https://github.com/odoo)
@@ -160,9 +160,6 @@ Curating the best open-source alternatives for famous apps.
 ### [Typeform](https://typeform.com)
 - [OhMyForm](https://github.com/ohmyform)
 - [Super Easy Forms](https://github.com/gkpty/super-easy-forms)
-- [](https://github.com/)
-- [](https://github.com/)
-- [](https://github.com/)
 
 ### [Youtube](https://youtube.com)
 - [Peertube](https://github.com/Chocobozzz/PeerTube)
