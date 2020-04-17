@@ -46,6 +46,7 @@ Curating the best open-source alternatives for famous apps.
 ### [Algolia](https://algolia.com/)
 - [Elastic Search](https://github.com/elastic/elasticsearch)
 - [MeiliSearch](https://github.com/meilisearch)
+- [Sonic](https://github.com/valeriansaliou/sonic)
 
 ### [Amazon S3](https://aws.amazon.com/s3/)
 - [minio](https://github.com/minio)
@@ -66,6 +67,13 @@ Curating the best open-source alternatives for famous apps.
 - [Vesta](https://github.com/serghey-rodin/vesta)
 - [Webmin](https://github.com/webmin)
 - [Hestia](https://github.com/hestiacp)
+
+### [Disqus](https://disqus.com/)
+- [Isso](https://github.com/posativ/isso)
+
+### [Evernote](https://evernote.com/)
+- [Paperwork](https://github.com/paperwork)
+- [OpenNote](https://github.com/FoxUSA/OpenNote)
 
 ### [Facebook](https://facebook.com)
 - [Mastodon](https://github.com/tootsuite/mastodon")
@@ -97,6 +105,9 @@ Curating the best open-source alternatives for famous apps.
 - [Seafile](https://github.com/haiwen)
 - [OwnCloud](https://github.com/owncloud)
 
+### [Google Photos](https://www.google.com/photos/about/)
+- [Ownphotos](https://github.com/hooram/ownphotos)
+
 ### [Heroku](https://heroku.com/)
 - [Dokku](https://github.com/dokku)
 - [OpenFaas](https://github.com/openfaas)
@@ -117,14 +128,21 @@ Curating the best open-source alternatives for famous apps.
 ### [Npm](https://www.npmjs.com)
 - [Verdaccio](https://github.com/verdaccio)
 - [Nexus](https://github.com/sonatype/nexus-public)
+- [ied](https://github.com/alexanderGugel/ied)
 
 ### [Netlify](https://netlify.com)
 - [StaticDeploy](https://github.com/staticdeploy)
+
+### [Postman](https://www.postman.com/)
+- [Postwoman](https://github.com/liyasthomas/postwoman)
 
 ### [Salesforce](https://salesforce.com/)
 - [Odoo](https://github.com/odoo)
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM)
 - [Crust CRM](https://github.com/crusttech)
+
+### [SAP](https://www.sap.com/)
+- [ERPNext](https://github.com/frappe/erpnext)
 
 ### [Segment](https://segment.com)
 - [Rudder](https://github.com/rudderlabs)
