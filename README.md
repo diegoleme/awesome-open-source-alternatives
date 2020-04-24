@@ -37,11 +37,27 @@ Curating the best open-source alternatives for famous apps.
 ## Resources
 
 ### [1Password](https://1password.com/)
-- [KeePassXC](https://github.com/keepassxreboot)
-- [Bitwarden](https://github.com/bitwarden)
-- [Buttercup](https://github.com/buttercup)
-- [Padloc](https://github.com/padloc)
-- [Passwordcockpit](https://github.com/passwordcockpit)
+
+- [KeePassXC](https://github.com/keepassxreboot/keepassxc) <br/>
+Developing a community driven, offline password manager <br/>
+![Github Stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc)
+![GitHub top language](https://img.shields.io/github/languages/top/keepassxreboot/keepassxc?color=red)
+[![GitHub license](https://img.shields.io/github/license/keepassxreboot/keepassxc)](https://github.com/keepassxreboot/keepassxc/blob/master/LICENSE)
+- [Bitwarden](https://github.com/bitwarden) <br/>
+Open source password management solutions for individuals, teams, and business organizations. <br/>
+![Github Stars](https://img.shields.io/github/stars/bitwarden/server)
+![GitHub top language](https://img.shields.io/github/languages/top/bitwarden/server?color=red)
+[![GitHub license](https://img.shields.io/github/license/bitwarden/server)](https://github.com/bitwarden/server/blob/master/LICENSE)
+- [Buttercup](https://github.com/buttercup) <br/>
+Buttercup credentials management application. <br/>
+![Github Stars](https://img.shields.io/github/stars/buttercup/buttercup-desktop)
+![GitHub top language](https://img.shields.io/github/languages/top/buttercup/buttercup-desktop?color=red)
+[![GitHub license](https://img.shields.io/github/license/buttercup/buttercup-desktop)](https://github.com/buttercup/buttercup-desktop/blob/master/LICENSE)
+- [Padloc](https://github.com/padloc) <br/>
+A modern, open source password manager. <br/>
+![Github Stars](https://img.shields.io/github/stars/padloc/padloc)
+![GitHub top language](https://img.shields.io/github/languages/top/padloc/padloc?color=red)
+[![GitHub license](https://img.shields.io/github/license/padloc/padloc)](https://github.com/padloc/padloc/blob/master/LICENSE)
 
 ### [Algolia](https://algolia.com/)
 - [Elastic Search](https://github.com/elastic/elasticsearch)
@@ -52,6 +68,9 @@ Curating the best open-source alternatives for famous apps.
 - [minio](https://github.com/minio)
 - [ceph](https://github.com/ceph)
 - [SwiftStack](https://github.com/openstack/swift)
+  ![Github Stars](https://img.shields.io/github/stars/openstack/swift)
+  ![GitHub top language](https://img.shields.io/github/languages/top/openstack/swift)
+  [![GitHub license](https://img.shields.io/github/license/openstack/swift)](https://github.com/openstack/swift/blob/master/LICENSE)
 
 ### [Asana](https://asana.com)
 - [LeanTime](https://github.com/leantime)
@@ -107,6 +126,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Google Photos](https://www.google.com/photos/about/)
 - [Ownphotos](https://github.com/hooram/ownphotos)
+
 
 ### [Heroku](https://heroku.com/)
 - [Dokku](https://github.com/dokku)
