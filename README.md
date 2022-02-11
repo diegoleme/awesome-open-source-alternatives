@@ -76,7 +76,7 @@ Curating the best open-source alternatives for famous apps.
 - [OpenNote](https://github.com/FoxUSA/OpenNote)
 
 ### [Facebook](https://facebook.com)
-- [Mastodon](https://github.com/tootsuite/mastodon")
+- [Mastodon](https://github.com/tootsuite/mastodon)
 - [Okuna](https://github.com/OkunaOrg)
 - [Convo](https://github.com/hiconvo)
 
@@ -166,7 +166,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [TeamViewer](https://www.teamviewer.com/)
 - [Apache Guacamole](https://github.com/apache/guacamole-server)
-- [Myrtille](https://github.com/cedrozor/myrtille")
+- [Myrtille](https://github.com/cedrozor/myrtille)
 - [MeshCentral](https://github.com/Ylianst/MeshCentral)
 - [Remotely](https://github.com/Jay-Rad/Remotely)
 
