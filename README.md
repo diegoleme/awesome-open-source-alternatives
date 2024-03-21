@@ -140,6 +140,7 @@ Curating the best open-source alternatives for famous apps.
 - [Odoo](https://github.com/odoo)
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM)
 - [Crust CRM](https://github.com/crusttech)
+- [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm)
 
 ### [SAP](https://www.sap.com/)
 - [ERPNext](https://github.com/frappe/erpnext)
