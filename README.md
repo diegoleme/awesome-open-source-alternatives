@@ -58,6 +58,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Auth0](https://auth0.com)
 - [KeyCloak](https://github.com/keycloak)
+- [Authgear](https://github.com/authgear/authgear-server)
 
 ### [Canny](https://canny.io/)
 - [Fider](https://github.com/getfider)
