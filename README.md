@@ -36,6 +36,7 @@ Curating the best open-source alternatives for famous apps.
 
 ## Resources
 
+- [IndieStack](https://indiestack.fly.dev) - A curated directory of indie-built SaaS alternatives.
 ### [1Password](https://1password.com/)
 - [KeePassXC](https://github.com/keepassxreboot)
 - [Bitwarden](https://github.com/bitwarden)
