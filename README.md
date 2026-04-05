@@ -9,6 +9,8 @@ Curating the best open-source alternatives for famous apps.
 - [Amazon S3](#amazon-s3)
 - [Asana](#asana)
 - [Auth0](#auth0)
+- [Apollo.io / Outreach](#apolloio--outreach)
+- [Bombora / 6sense](#bombora--6sense)
 - [Canny](#canny)
 - [cPanel](#cpanel)
 - [Facebook](#facebook)
@@ -58,6 +60,12 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Auth0](https://auth0.com)
 - [KeyCloak](https://github.com/keycloak)
+
+### [Apollo.io](https://www.apollo.io/) / [Outreach](https://www.outreach.io/)
+- [Overloop CLI](https://github.com/sortlist/overloop-cli)
+
+### [Bombora](https://bombora.com/) / [6sense](https://6sense.com/)
+- [Signals CLI](https://github.com/sortlist/signals-cli)
 
 ### [Canny](https://canny.io/)
 - [Fider](https://github.com/getfider)
