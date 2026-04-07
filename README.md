@@ -149,6 +149,7 @@ Curating the best open-source alternatives for famous apps.
 - [Rudder](https://github.com/rudderlabs)
 
 ### [Shopify](https://shopify.com/)
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 - [Reaction Commerce](https://github.com/reactioncommerce)
 - [Saleor Commerce](https://github.com/mirumee/saleor)
 - [WooCommerce](https://github.com/woocommerce)
