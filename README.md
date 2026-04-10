@@ -219,3 +219,4 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Zoom](https://zoom.com)
 - [Jitsi](https://github.com/jitsi)
+- [TaleForge](https://www.tale-forge.com) - Free creative writing platform with book, manga/webtoon, and screenplay editors. PWA with offline support. ([Source Code](https://github.com/SamDreamsMaker/TaleForge))
