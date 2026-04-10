@@ -23,6 +23,7 @@ Curating the best open-source alternatives for famous apps.
 - [Instagram](#instagram)
 - [Npm](#npm)
 - [Netlify](#netlify)
+- [Quizlet](#quizlet)
 - [Salesforce](#salesforce)
 - [Segment](#segment)
 - [Shopify](#shopify)
@@ -144,6 +145,10 @@ Curating the best open-source alternatives for famous apps.
 ### [Postman](https://www.postman.com/)
 - [Postwoman](https://github.com/liyasthomas/postwoman)
 - [Voiden](https://github.com/VoidenHQ/voiden)
+
+### [Quizlet](https://quizlet.com/)
+- [Anki](https://github.com/ankitects/anki)
+- [Revu](https://github.com/JuliusBrussee/revu-swift)
 
 ### [Salesforce](https://salesforce.com/)
 - [Customermates](https://github.com/customermates/customermates)
