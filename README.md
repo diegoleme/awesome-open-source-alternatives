@@ -13,6 +13,7 @@ Curating the best open-source alternatives for famous apps.
 - [cPanel](#cpanel)
 - [Facebook](#facebook)
 - [Github](#github)
+- [GrantHub](#granthub)
 - [Google Analytics](#google-analytics)
 - [Google Docs](#google-docs)
 - [Google Drive](#google-drive)
@@ -87,6 +88,11 @@ Curating the best open-source alternatives for famous apps.
 - [Gitea](https://github.com/go-gitea)
 - [OneDev](https://github.com/theonedev)
 - [Pagure](https://github.com/Pagure)
+
+### [GrantHub](https://www.granthub.com/)
+> Note: GrantHub is shutting down. These open-source alternatives can replace it.
+- [GrantFlow](https://github.com/WabiSabikk/grantflow) — Full grant lifecycle manager: Kanban pipeline, deadline tracking, 146K+ grant discovery, funder CRM, budget management, CSV migration from GrantHub. ([Demo](https://grantflow-zeta.vercel.app))
+
 
 ### [Google Analytics](https://analytics.google.com/)
 - [Matomo](https://github.com/Matomo-org)
