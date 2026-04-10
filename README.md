@@ -116,6 +116,7 @@ Curating the best open-source alternatives for famous apps.
 - [Tsuru](https://github.com/tsuru)
 
 ### [Hubspot](https://www.hubspot.com/)
+- [Customermates](https://github.com/customermates/customermates)
 - [Erxes](https://github.com/erxes)
 
 ### [Intercom](https://intercom.com)
@@ -137,6 +138,7 @@ Curating the best open-source alternatives for famous apps.
 - [Postwoman](https://github.com/liyasthomas/postwoman)
 
 ### [Salesforce](https://salesforce.com/)
+- [Customermates](https://github.com/customermates/customermates)
 - [Odoo](https://github.com/odoo)
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM)
 - [Crust CRM](https://github.com/crusttech)
