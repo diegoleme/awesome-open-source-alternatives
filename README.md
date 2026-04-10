@@ -163,6 +163,7 @@ Curating the best open-source alternatives for famous apps.
 ### [Slack](https://slack.com/)
 - [Rocket.Chat](https://github.com/RocketChat)
 - [Mattermost](https://github.com/mattermost)
+- [Mezon](https://github.com/mezonai/mezon)
 - [Zulip](https://github.com/zulip)
 - [Riot](https://github.com/vector-im/riot-web)
 - [Wire](https://github.com/wireapp)
