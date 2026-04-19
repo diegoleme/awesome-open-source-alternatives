@@ -5,6 +5,7 @@ Curating the best open-source alternatives for famous apps.
 
 ## Apps
 - [1Password](#1-password)
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Algolia](#algolia)
 - [Amazon S3](#amazon-s3)
 - [Asana](#asana)
@@ -25,6 +26,7 @@ Curating the best open-source alternatives for famous apps.
 - [Instagram](#instagram)
 - [Npm](#npm)
 - [Netlify](#netlify)
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 - [Quizlet](#quizlet)
 - [Salesforce](#salesforce)
 - [Segment](#segment)
