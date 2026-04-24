@@ -13,6 +13,7 @@ Curating the best open-source alternatives for famous apps.
 - [Bombora / 6sense](#bombora--6sense)
 - [Canny](#canny)
 - [cPanel](#cpanel)
+- [Cursor](#cursor)
 - [Facebook](#facebook)
 - [Github](#github)
 - [GrantHub](#granthub)
@@ -78,6 +79,9 @@ Curating the best open-source alternatives for famous apps.
 - [Vesta](https://github.com/serghey-rodin/vesta)
 - [Webmin](https://github.com/webmin)
 - [Hestia](https://github.com/hestiacp)
+
+### [Cursor](https://www.cursor.com/)
+- [LocoPilot](https://github.com/bobfromarcher/LocoPilot) — Vision, browser, and desktop control for any local LLM. 35 endpoints, zero cloud, fully local via Ollama. MIT license.
 
 ### [Disqus](https://disqus.com/)
 - [Isso](https://github.com/posativ/isso)
