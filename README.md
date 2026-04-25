@@ -26,6 +26,7 @@ Curating the best open-source alternatives for famous apps.
 - [Npm](#npm)
 - [Netlify](#netlify)
 - [Quizlet](#quizlet)
+- [Rewind / Limitless](#rewind--limitless)
 - [Salesforce](#salesforce)
 - [Segment](#segment)
 - [Shopify](#shopify)
@@ -157,6 +158,9 @@ Curating the best open-source alternatives for famous apps.
 ### [Quizlet](https://quizlet.com/)
 - [Anki](https://github.com/ankitects/anki)
 - [Revu](https://github.com/JuliusBrussee/revu-swift)
+
+### [Rewind](https://www.rewind.ai/) / [Limitless](https://www.limitless.ai/)
+- [Screenpipe](https://github.com/screenpipe/screenpipe)
 
 ### [Salesforce](https://salesforce.com/)
 - [Customermates](https://github.com/customermates/customermates)
