@@ -69,6 +69,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Bombora](https://bombora.com/) / [6sense](https://6sense.com/)
 - [Signals CLI](https://github.com/sortlist/signals-cli)
+- [Beton Inspector](https://github.com/getbeton/inspector)
 
 ### [Canny](https://canny.io/)
 - [Fider](https://github.com/getfider)
