@@ -41,7 +41,7 @@ Curating the best open-source alternatives for famous apps.
 ## Resources
 
 ### [Teachable](https://teachable.com/)
-- [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Free, open-source LMS for Bible schools and nonprofits (FastAPI + React + Supabase)
+- [Equip](https://github.com/ArVaViT/equip) - Free, open-source LMS for Bible schools and nonprofits (FastAPI + React + Supabase)
 
 ### [1Password](https://1password.com/)
 - [KeePassXC](https://github.com/keepassxreboot)
