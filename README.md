@@ -12,6 +12,7 @@ Curating the best open-source alternatives for famous apps.
 - [Apollo.io / Outreach](#apolloio--outreach)
 - [Bombora / 6sense](#bombora--6sense)
 - [Canny](#canny)
+- [Contentful / Sanity / Prismic](#contentful--sanity--prismic)
 - [cPanel](#cpanel)
 - [Facebook](#facebook)
 - [Github](#github)
@@ -73,6 +74,13 @@ Curating the best open-source alternatives for famous apps.
 ### [Canny](https://canny.io/)
 - [Fider](https://github.com/getfider)
 - [Astuto](https://github.com/riggraz/astuto)
+
+### [Contentful](https://contentful.com/) / [Sanity](https://sanity.io/) / [Prismic](https://prismic.io/)
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted CMS built on Laravel 12 + React 19. REST API v1, HMAC webhooks, headless mode. ([Website](https://unfoldcms.com))
+- [Strapi](https://github.com/strapi/strapi)
+- [Ghost](https://github.com/TryGhost/Ghost)
+- [Directus](https://github.com/directus/directus)
+- [Payload](https://github.com/payloadcms/payload)
 
 ### [cPanel](https://cpanel.net/)
 - [Vesta](https://github.com/serghey-rodin/vesta)
