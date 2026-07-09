@@ -138,6 +138,7 @@ Curating the best open-source alternatives for famous apps.
 ### [Intercom](https://intercom.com)
 - [chatwoot](https://github.com/chatwoot)
 - [chaskiq](https://github.com/chaskiq)
+- [Knocket](https://trtc.io/solutions/knocket) — Free-forever live chat widget + contact page + unified inbox
 
 ### [Instagram](https://instagram.com)
 - [Pixelfed](https://github.com/pixelfed)
