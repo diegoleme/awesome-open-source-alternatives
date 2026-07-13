@@ -5,6 +5,7 @@ Curating the best open-source alternatives for famous apps.
 
 ## Apps
 - [1Password](#1-password)
+- [Adobe Acrobat](#adobe-acrobat)
 - [Algolia](#algolia)
 - [Amazon S3](#amazon-s3)
 - [Asana](#asana)
@@ -46,6 +47,11 @@ Curating the best open-source alternatives for famous apps.
 - [Buttercup](https://github.com/buttercup)
 - [Padloc](https://github.com/padloc)
 - [Passwordcockpit](https://github.com/passwordcockpit)
+
+### [Adobe Acrobat](https://www.adobe.com/acrobat.html)
+- [Slay PDF](https://github.com/emileakbarzadeh/slay-pdf) - Browser-based local PDF editor for merging, splitting, signing, resizing, posterising, redacting and editing PDFs. ([Demo](https://slaypdf.com/))
+- [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
 
 ### [Algolia](https://algolia.com/)
 - [Elastic Search](https://github.com/elastic/elasticsearch)
