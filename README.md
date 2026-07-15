@@ -20,6 +20,7 @@ Curating the best open-source alternatives for famous apps.
 - [Google Docs](#google-docs)
 - [Google Drive](#google-drive)
 - [Heroku](#heroku)
+- [HireVue](#hirevue)
 - [Hubspot](#hubspot)
 - [Intercom](#intercom)
 - [Instagram](#instagram)
@@ -130,6 +131,9 @@ Curating the best open-source alternatives for famous apps.
 - [Flynn](https://github.com/flynn)
 - [Caprover](https://github.com/Caprover)
 - [Tsuru](https://github.com/tsuru)
+
+### [HireVue](https://www.hirevue.com/)
+- [Aural](https://github.com/1146345502/aural-oss) — Self-hostable, MIT-licensed AI interview platform for voice, chat, and video interviews.
 
 ### [Hubspot](https://www.hubspot.com/)
 - [Customermates](https://github.com/customermates/customermates)
