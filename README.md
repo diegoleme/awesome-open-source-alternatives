@@ -37,6 +37,7 @@ Curating the best open-source alternatives for famous apps.
 - [Zapier](#zapier)
 - [Zendesk](#zendesk)
 - [Zoom](#zoom)
+- [Cloudflare Tunnel / ngrok](#cloudflare-tunnel--ngrok)
 
 ## Resources
 
@@ -228,3 +229,8 @@ Curating the best open-source alternatives for famous apps.
 ### [Zoom](https://zoom.com)
 - [Jitsi](https://github.com/jitsi)
 - [TaleForge](https://www.tale-forge.com) - Free creative writing platform with book, manga/webtoon, and screenplay editors. PWA with offline support. ([Source Code](https://github.com/SamDreamsMaker/TaleForge))
+
+### [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) / [ngrok](https://ngrok.com/)
+- [NSL.SH](https://nsl.sh) ([Source](https://github.com/Yundera/mesh-router-root))
+- [frp](https://github.com/fatedier/frp)
+- [Pangolin](https://github.com/fosrl/pangolin)
