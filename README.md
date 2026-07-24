@@ -66,6 +66,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Apollo.io](https://www.apollo.io/) / [Outreach](https://www.outreach.io/)
 - [Overloop CLI](https://github.com/sortlist/overloop-cli)
+- [Warmbly](https://github.com/warmbly/warmbly)
 
 ### [Bombora](https://bombora.com/) / [6sense](https://6sense.com/)
 - [Signals CLI](https://github.com/sortlist/signals-cli)
