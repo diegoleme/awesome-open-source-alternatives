@@ -11,6 +11,7 @@ Curating the best open-source alternatives for famous apps.
 - [Auth0](#auth0)
 - [Apollo.io / Outreach](#apolloio--outreach)
 - [Bombora / 6sense](#bombora--6sense)
+- [Buffer / Hootsuite](#buffer--hootsuite)
 - [Canny](#canny)
 - [cPanel](#cpanel)
 - [Facebook](#facebook)
@@ -69,6 +70,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Bombora](https://bombora.com/) / [6sense](https://6sense.com/)
 - [Signals CLI](https://github.com/sortlist/signals-cli)
+
+### [Buffer](https://buffer.com/) / [Hootsuite](https://www.hootsuite.com/)
+- [OpenPost](https://github.com/rodrgds/openpost)
 
 ### [Canny](https://canny.io/)
 - [Fider](https://github.com/getfider)
