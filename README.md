@@ -204,6 +204,9 @@ Curating the best open-source alternatives for famous apps.
 - [OhMyForm](https://github.com/ohmyform)
 - [Super Easy Forms](https://github.com/gkpty/super-easy-forms)
 
+### [Wispr Flow](https://wisprflow.ai/)
+- [Yap](https://github.com/FrigadeHQ/yap)
+
 ### [Youtube](https://youtube.com)
 - [Peertube](https://github.com/Chocobozzz/PeerTube)
 - [NodeTube](https://github.com/mayeaux/nodetube)
