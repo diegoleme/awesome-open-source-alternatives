@@ -25,6 +25,7 @@ Curating the best open-source alternatives for famous apps.
 - [Instagram](#instagram)
 - [Npm](#npm)
 - [Netlify](#netlify)
+- [Opus Clip](#opus-clip)
 - [Quizlet](#quizlet)
 - [Salesforce](#salesforce)
 - [Segment](#segment)
@@ -149,6 +150,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Netlify](https://netlify.com)
 - [StaticDeploy](https://github.com/staticdeploy)
+
+### [Opus Clip](https://www.opus.pro/)
+- [OpenShorts](https://github.com/mutonby/openshorts)
 
 ### [Postman](https://www.postman.com/)
 - [Postwoman](https://github.com/liyasthomas/postwoman)
