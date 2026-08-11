@@ -25,6 +25,7 @@ Curating the best open-source alternatives for famous apps.
 - [Instagram](#instagram)
 - [Npm](#npm)
 - [Netlify](#netlify)
+- [Otter.ai](#otterai)
 - [Quizlet](#quizlet)
 - [Salesforce](#salesforce)
 - [Segment](#segment)
@@ -149,6 +150,12 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Netlify](https://netlify.com)
 - [StaticDeploy](https://github.com/staticdeploy)
+
+### [Otter.ai](https://otter.ai/)
+- [Buzz](https://github.com/chidiwilliams/buzz)
+- [Meetily](https://github.com/Zackriya-Solutions/meetily)
+- [Vibe](https://github.com/thewh1teagle/vibe)
+- [YazSes](https://github.com/MSKazemi/yazses)
 
 ### [Postman](https://www.postman.com/)
 - [Postwoman](https://github.com/liyasthomas/postwoman)
