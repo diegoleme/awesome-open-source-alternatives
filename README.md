@@ -85,6 +85,7 @@ Curating the best open-source alternatives for famous apps.
 ### [Evernote](https://evernote.com/)
 - [Paperwork](https://github.com/paperwork)
 - [OpenNote](https://github.com/FoxUSA/OpenNote)
+- [Persona](https://github.com/jayamitkatariya/personacli)
 
 ### [Facebook](https://facebook.com)
 - [Mastodon](https://github.com/tootsuite/mastodon)
