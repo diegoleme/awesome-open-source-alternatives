@@ -228,3 +228,4 @@ Curating the best open-source alternatives for famous apps.
 ### [Zoom](https://zoom.com)
 - [Jitsi](https://github.com/jitsi)
 - [TaleForge](https://www.tale-forge.com) - Free creative writing platform with book, manga/webtoon, and screenplay editors. PWA with offline support. ([Source Code](https://github.com/SamDreamsMaker/TaleForge))
+- [n8n Uptime Ping Alert](https://github.com/DeusAcc/n8n-uptime-ping-alert) - Free n8n workflow that checks a site every 5 minutes and alerts on Telegram only on state change.
