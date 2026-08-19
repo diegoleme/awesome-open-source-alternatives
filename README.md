@@ -14,6 +14,7 @@ Curating the best open-source alternatives for famous apps.
 - [Canny](#canny)
 - [cPanel](#cpanel)
 - [Facebook](#facebook)
+- [Fivetran](#fivetran)
 - [Github](#github)
 - [GrantHub](#granthub)
 - [Google Analytics](#google-analytics)
@@ -90,6 +91,13 @@ Curating the best open-source alternatives for famous apps.
 - [Mastodon](https://github.com/tootsuite/mastodon)
 - [Okuna](https://github.com/OkunaOrg)
 - [Convo](https://github.com/hiconvo)
+
+### [Fivetran](https://www.fivetran.com/)
+- [Airbyte](https://github.com/airbytehq/airbyte)
+- [Meltano](https://github.com/meltano/meltano)
+- [dlt](https://github.com/dlt-hub/dlt)
+- [ingestr](https://github.com/bruin-data/ingestr)
+- [Bruin](https://github.com/bruin-data/bruin)
 
 ### [Github](https://github.com/)
 - [Gogs](https://github.com/gogs)
