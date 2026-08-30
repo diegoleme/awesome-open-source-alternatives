@@ -82,6 +82,9 @@ Curating the best open-source alternatives for famous apps.
 ### [Disqus](https://disqus.com/)
 - [Isso](https://github.com/posativ/isso)
 
+### [DocSend](https://www.docsend.com/)
+- [HTMLRadar](https://github.com/htmlradar/htmlradar) - Open-source DocSend alternative: turn any HTML file into a tracked share link with per-section read analytics. ([Demo](https://htmlradar.com))
+
 ### [Evernote](https://evernote.com/)
 - [Paperwork](https://github.com/paperwork)
 - [OpenNote](https://github.com/FoxUSA/OpenNote)
