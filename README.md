@@ -23,6 +23,7 @@ Curating the best open-source alternatives for famous apps.
 - [Hubspot](#hubspot)
 - [Intercom](#intercom)
 - [Instagram](#instagram)
+- [Jasper](#jasper--surfer-seo) / [Surfer SEO](#jasper--surfer-seo)
 - [Npm](#npm)
 - [Netlify](#netlify)
 - [Quizlet](#quizlet)
@@ -141,6 +142,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Instagram](https://instagram.com)
 - [Pixelfed](https://github.com/pixelfed)
+
+### [Jasper](https://www.jasper.ai/) / [Surfer SEO](https://surferseo.com/)
+- [AltoRank](https://github.com/AltoRank/altorank)
 
 ### [Npm](https://www.npmjs.com)
 - [Verdaccio](https://github.com/verdaccio)
