@@ -30,6 +30,7 @@ Curating the best open-source alternatives for famous apps.
 - [Segment](#segment)
 - [Shopify](#shopify)
 - [Slack](#slack)
+- [Square POS / Clover](#square-pos--clover)
 - [TeamViewer](#teamviewer)
 - [Trello](#trello)
 - [Typeform](#typeform)
@@ -188,6 +189,11 @@ Curating the best open-source alternatives for famous apps.
 - [Riot](https://github.com/vector-im/riot-web)
 - [Wire](https://github.com/wireapp)
 - [Crust CRM](https://github.com/crusttech)
+
+### [Square POS](https://squareup.com/us/en/point-of-sale) / [Clover](https://www.clover.com/)
+- [Open Source POS](https://github.com/opensourcepos/opensourcepos) - Web-based point of sale system for small retailers, with inventory, customers and reporting.
+- [uniCenta oPOS](https://github.com/herbiehp/unicenta) - Desktop POS for stores and hospitality deployments that need local terminals and receipt-printer support.
+- [Posnic POS](https://github.com/Posnic/POS) - Free offline-first open source POS and billing software for retail shops and restaurants, with Offline POS use, online/offline workflows and the official site at [www.posnic.com](https://www.posnic.com/).
 
 ### [TeamViewer](https://www.teamviewer.com/)
 - [Apache Guacamole](https://github.com/apache/guacamole-server)
