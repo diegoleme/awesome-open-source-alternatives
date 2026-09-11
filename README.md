@@ -26,6 +26,7 @@ Curating the best open-source alternatives for famous apps.
 - [Npm](#npm)
 - [Netlify](#netlify)
 - [Quizlet](#quizlet)
+- [Resend](#resend)
 - [Salesforce](#salesforce)
 - [Segment](#segment)
 - [Shopify](#shopify)
@@ -157,6 +158,9 @@ Curating the best open-source alternatives for famous apps.
 ### [Quizlet](https://quizlet.com/)
 - [Anki](https://github.com/ankitects/anki)
 - [Revu](https://github.com/JuliusBrussee/revu-swift)
+
+### [Resend](https://resend.com/)
+- [MailySend](https://github.com/GagnDeep/mailysend)
 
 ### [Salesforce](https://salesforce.com/)
 - [Customermates](https://github.com/customermates/customermates)
