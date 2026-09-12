@@ -5,6 +5,7 @@ Curating the best open-source alternatives for famous apps.
 
 ## Apps
 - [1Password](#1-password)
+- [Adobe Lightroom](#adobe-lightroom)
 - [Algolia](#algolia)
 - [Amazon S3](#amazon-s3)
 - [Asana](#asana)
@@ -46,6 +47,11 @@ Curating the best open-source alternatives for famous apps.
 - [Buttercup](https://github.com/buttercup)
 - [Padloc](https://github.com/padloc)
 - [Passwordcockpit](https://github.com/passwordcockpit)
+
+### [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+- [LightTable](https://github.com/reville/lighttable-digital-darkroom)
+- [darktable](https://github.com/darktable-org/darktable)
+- [RawTherapee](https://github.com/Beep6581/RawTherapee)
 
 ### [Algolia](https://algolia.com/)
 - [Elastic Search](https://github.com/elastic/elasticsearch)
