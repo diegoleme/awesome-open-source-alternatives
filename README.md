@@ -167,6 +167,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [SAP](https://www.sap.com/)
 - [ERPNext](https://github.com/frappe/erpnext)
+- [OpenBooks](https://github.com/braedonsaunders/openbooks)
 
 ### [Segment](https://segment.com)
 - [Rudder](https://github.com/rudderlabs)
