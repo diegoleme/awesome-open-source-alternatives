@@ -59,6 +59,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Asana](https://asana.com)
 - [LeanTime](https://github.com/leantime)
+- [Orbit](https://github.com/Noveum/orbit)
 
 ### [Auth0](https://auth0.com)
 - [KeyCloak](https://github.com/keycloak)
