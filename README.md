@@ -199,6 +199,7 @@ Curating the best open-source alternatives for famous apps.
 - [Wekan](https://github.com/wekan)
 - [Taiga](https://github.com/taigaio)
 - [Kanboard](https://github.com/kanboard)
+- [MonoMap](https://github.com/tehnika-mk/monomap)
 
 ### [Typeform](https://typeform.com)
 - [OhMyForm](https://github.com/ohmyform)
