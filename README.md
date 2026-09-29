@@ -33,6 +33,7 @@ Curating the best open-source alternatives for famous apps.
 - [TeamViewer](#teamviewer)
 - [Trello](#trello)
 - [Typeform](#typeform)
+- [Wispr Flow](#wispr-flow)
 - [Youtube](#youtube)
 - [Zapier](#zapier)
 - [Zendesk](#zendesk)
@@ -203,6 +204,9 @@ Curating the best open-source alternatives for famous apps.
 ### [Typeform](https://typeform.com)
 - [OhMyForm](https://github.com/ohmyform)
 - [Super Easy Forms](https://github.com/gkpty/super-easy-forms)
+
+### [Wispr Flow](https://wisprflow.ai/)
+- [Steno](https://github.com/Thesimpleex/steno)
 
 ### [Youtube](https://youtube.com)
 - [Peertube](https://github.com/Chocobozzz/PeerTube)
