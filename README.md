@@ -72,7 +72,7 @@ Curating the best open-source alternatives for famous apps.
 - [Signals CLI](https://github.com/sortlist/signals-cli)
 
 ### [Buffer](https://buffer.com/) / [Hootsuite](https://www.hootsuite.com/)
-- [OpenPost](https://github.com/rodrgds/openpost)
+- [OpenPost](https://github.com/getopenpost/openpost)
 
 ### [Canny](https://canny.io/)
 - [Fider](https://github.com/getfider)
