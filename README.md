@@ -142,6 +142,9 @@ Curating the best open-source alternatives for famous apps.
 ### [Instagram](https://instagram.com)
 - [Pixelfed](https://github.com/pixelfed)
 
+### [Miro](https://miro.com)
+- [tiko](https://github.com/tiko-run/tiko)
+
 ### [Npm](https://www.npmjs.com)
 - [Verdaccio](https://github.com/verdaccio)
 - [Nexus](https://github.com/sonatype/nexus-public)
