@@ -4,35 +4,60 @@ Curating the best open-source alternatives for famous apps.
 > Inspired by [opensource.builders](https://opensource.builders/)
 
 ## Apps
-- [1Password](#1-password)
+- [1Password](#1password)
+- [Adobe Acrobat](#adobe-acrobat)
+- [Adobe Lightroom](#adobe-lightroom)
 - [Algolia](#algolia)
 - [Amazon S3](#amazon-s3)
+- [Apollo.io / Outreach](#apolloio--outreach)
 - [Asana](#asana)
 - [Auth0](#auth0)
-- [Apollo.io / Outreach](#apolloio--outreach)
 - [Bombora / 6sense](#bombora--6sense)
+- [Buffer / Hootsuite](#buffer--hootsuite)
 - [Canny](#canny)
+- [Cloudflare Tunnel / ngrok](#cloudflare-tunnel--ngrok)
+- [Common Room / Pocus](#common-room--pocus)
 - [cPanel](#cpanel)
+- [Disqus](#disqus)
+- [Evernote](#evernote)
 - [Facebook](#facebook)
+- [Fivetran](#fivetran)
+- [Flightradar24](#flightradar24)
 - [Github](#github)
-- [GrantHub](#granthub)
 - [Google Analytics](#google-analytics)
 - [Google Docs](#google-docs)
 - [Google Drive](#google-drive)
+- [Google Photos](#google-photos)
+- [GrantHub](#granthub)
+- [Hacker News](#hacker-news)
 - [Heroku](#heroku)
+- [HireVue](#hirevue)
 - [Hubspot](#hubspot)
-- [Intercom](#intercom)
 - [Instagram](#instagram)
-- [Npm](#npm)
+- [Intercom](#intercom)
+- [Linktree](#linktree)
+- [Marked](#marked)
+- [Miro](#miro)
 - [Netlify](#netlify)
+- [Npm](#npm)
+- [Opus Clip](#opus-clip)
+- [Otter.ai](#otterai)
+- [Pipedrive](#pipedrive)
+- [Postman](#postman)
 - [Quizlet](#quizlet)
+- [Resend](#resend)
 - [Salesforce](#salesforce)
+- [SAP](#sap)
 - [Segment](#segment)
 - [Shopify](#shopify)
 - [Slack](#slack)
+- [Square POS / Clover](#square-pos--clover)
 - [TeamViewer](#teamviewer)
 - [Trello](#trello)
 - [Typeform](#typeform)
+- [WeTransfer](#wetransfer)
+- [Wispr Flow](#wispr-flow)
+- [Workona / Toby](#workona--toby)
 - [Youtube](#youtube)
 - [Zapier](#zapier)
 - [Zendesk](#zendesk)
@@ -47,6 +72,15 @@ Curating the best open-source alternatives for famous apps.
 - [Padloc](https://github.com/padloc)
 - [Passwordcockpit](https://github.com/passwordcockpit)
 
+### [Adobe Acrobat](https://www.adobe.com/acrobat.html)
+- [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
+
+### [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+- [darktable](https://github.com/darktable-org/darktable)
+- [RawTherapee](https://github.com/RawTherapee/RawTherapee)
+- [LightTable](https://github.com/reville/lighttable-digital-darkroom)
+
 ### [Algolia](https://algolia.com/)
 - [Elastic Search](https://github.com/elastic/elasticsearch)
 - [MeiliSearch](https://github.com/meilisearch)
@@ -57,22 +91,36 @@ Curating the best open-source alternatives for famous apps.
 - [ceph](https://github.com/ceph)
 - [SwiftStack](https://github.com/openstack/swift)
 
+### [Apollo.io](https://www.apollo.io/) / [Outreach](https://www.outreach.io/)
+- [Overloop CLI](https://github.com/sortlist/overloop-cli)
+- [OpenLeads](https://github.com/Samyrrrrrr990/openleads)
+- [Warmbly](https://github.com/warmbly/warmbly)
+
 ### [Asana](https://asana.com)
 - [LeanTime](https://github.com/leantime)
+- [Orbit](https://github.com/Noveum/orbit)
 
 ### [Auth0](https://auth0.com)
 - [KeyCloak](https://github.com/keycloak)
 - [Authgear](https://github.com/authgear/authgear-server)
 
-### [Apollo.io](https://www.apollo.io/) / [Outreach](https://www.outreach.io/)
-- [Overloop CLI](https://github.com/sortlist/overloop-cli)
-
 ### [Bombora](https://bombora.com/) / [6sense](https://6sense.com/)
 - [Signals CLI](https://github.com/sortlist/signals-cli)
+
+### [Buffer](https://buffer.com/) / [Hootsuite](https://www.hootsuite.com/)
+- [OpenPost](https://github.com/getopenpost/openpost)
 
 ### [Canny](https://canny.io/)
 - [Fider](https://github.com/getfider)
 - [Astuto](https://github.com/riggraz/astuto)
+
+### [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) / [ngrok](https://ngrok.com/)
+- [frp](https://github.com/fatedier/frp)
+- [Pangolin](https://github.com/fosrl/pangolin)
+- [NSL.SH](https://nsl.sh) ([Source](https://github.com/Yundera/mesh-router-root))
+
+### [Common Room](https://www.commonroom.io/) / [Pocus](https://www.pocus.com/)
+- [Beton Inspector](https://github.com/getbeton/inspector)
 
 ### [cPanel](https://cpanel.net/)
 - [Vesta](https://github.com/serghey-rodin/vesta)
@@ -85,11 +133,22 @@ Curating the best open-source alternatives for famous apps.
 ### [Evernote](https://evernote.com/)
 - [Paperwork](https://github.com/paperwork)
 - [OpenNote](https://github.com/FoxUSA/OpenNote)
+- [Koru](https://github.com/koruworks/mono)
 
 ### [Facebook](https://facebook.com)
 - [Mastodon](https://github.com/tootsuite/mastodon)
 - [Okuna](https://github.com/OkunaOrg)
 - [Convo](https://github.com/hiconvo)
+
+### [Fivetran](https://www.fivetran.com/)
+- [Airbyte](https://github.com/airbytehq/airbyte)
+- [Meltano](https://github.com/meltano/meltano)
+- [dlt](https://github.com/dlt-hub/dlt)
+- [ingestr](https://github.com/bruin-data/ingestr)
+- [Bruin](https://github.com/bruin-data/bruin)
+
+### [Flightradar24](https://www.flightradar24.com/)
+- [Velocity](https://github.com/AndrewCTF/velocity)
 
 ### [Github](https://github.com/)
 - [Gogs](https://github.com/gogs)
@@ -97,11 +156,6 @@ Curating the best open-source alternatives for famous apps.
 - [Gitea](https://github.com/go-gitea)
 - [OneDev](https://github.com/theonedev)
 - [Pagure](https://github.com/Pagure)
-
-### [GrantHub](https://www.granthub.com/)
-> Note: GrantHub is shutting down. These open-source alternatives can replace it.
-- [GrantFlow](https://github.com/WabiSabikk/grantflow) — Full grant lifecycle manager: Kanban pipeline, deadline tracking, 146K+ grant discovery, funder CRM, budget management, CSV migration from GrantHub. ([Demo](https://grantflow-zeta.vercel.app))
-
 
 ### [Google Analytics](https://analytics.google.com/)
 - [Matomo](https://github.com/Matomo-org)
@@ -124,31 +178,66 @@ Curating the best open-source alternatives for famous apps.
 ### [Google Photos](https://www.google.com/photos/about/)
 - [Ownphotos](https://github.com/hooram/ownphotos)
 
+### [GrantHub](https://www.granthub.com/)
+> Note: GrantHub is shutting down. These open-source alternatives can replace it.
+- [GrantFlow](https://github.com/WabiSabikk/grantflow) — Full grant lifecycle manager: Kanban pipeline, deadline tracking, 146K+ grant discovery, funder CRM, budget management, CSV migration from GrantHub. ([Demo](https://grantflow-zeta.vercel.app))
+
+### [Hacker News](https://news.ycombinator.com)
+- [Kiwi News](https://github.com/attestate/kiwistand)
+- [Lemmy](https://github.com/LemmyNet/lemmy)
+- [Lobsters](https://github.com/lobsters/lobsters)
+
 ### [Heroku](https://heroku.com/)
 - [Dokku](https://github.com/dokku)
 - [OpenFaas](https://github.com/openfaas)
 - [Flynn](https://github.com/flynn)
 - [Caprover](https://github.com/Caprover)
 - [Tsuru](https://github.com/tsuru)
+- [Peon](https://github.com/Peon-sh/Peon)
+
+### [HireVue](https://www.hirevue.com/)
+- [Aural](https://github.com/1146345502/aural-oss) — Self-hostable, MIT-licensed AI interview platform for voice, chat, and video interviews.
 
 ### [Hubspot](https://www.hubspot.com/)
 - [Customermates](https://github.com/customermates/customermates)
 - [Erxes](https://github.com/erxes)
 
+### [Instagram](https://instagram.com)
+- [Pixelfed](https://github.com/pixelfed)
+
 ### [Intercom](https://intercom.com)
 - [chatwoot](https://github.com/chatwoot)
 - [chaskiq](https://github.com/chaskiq)
 
-### [Instagram](https://instagram.com)
-- [Pixelfed](https://github.com/pixelfed)
+### [Linktree](https://linktr.ee/)
+- [LinkStack](https://github.com/LinkStackOrg/LinkStack)
+- [LittleLink](https://github.com/sethcottle/littlelink)
+
+### [Marked](https://marked2app.com/)
+- [Glim](https://github.com/glimapp/glim) — macOS Markdown preview with Mermaid diagrams, formulas and basic source editing.
+
+### [Miro](https://miro.com)
+- [tiko](https://github.com/tiko-run/tiko)
+
+### [Netlify](https://netlify.com)
+- [StaticDeploy](https://github.com/staticdeploy)
 
 ### [Npm](https://www.npmjs.com)
 - [Verdaccio](https://github.com/verdaccio)
 - [Nexus](https://github.com/sonatype/nexus-public)
 - [ied](https://github.com/alexanderGugel/ied)
 
-### [Netlify](https://netlify.com)
-- [StaticDeploy](https://github.com/staticdeploy)
+### [Opus Clip](https://www.opus.pro/)
+- [OpenShorts](https://github.com/mutonby/openshorts)
+
+### [Otter.ai](https://otter.ai/)
+- [Buzz](https://github.com/chidiwilliams/buzz)
+- [Meetily](https://github.com/Zackriya-Solutions/meetily)
+- [Vibe](https://github.com/thewh1teagle/vibe)
+- [YazSes](https://github.com/MSKazemi/yazses)
+
+### [Pipedrive](https://www.pipedrive.com/)
+- [Warpdrive](https://github.com/sneg55/warpdrive)
 
 ### [Postman](https://www.postman.com/)
 - [Postwoman](https://github.com/liyasthomas/postwoman)
@@ -156,7 +245,11 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Quizlet](https://quizlet.com/)
 - [Anki](https://github.com/ankitects/anki)
+- [Ordkort](https://github.com/silicq/ordkort)
 - [Revu](https://github.com/JuliusBrussee/revu-swift)
+
+### [Resend](https://resend.com/)
+- [MailySend](https://github.com/GagnDeep/mailysend)
 
 ### [Salesforce](https://salesforce.com/)
 - [Customermates](https://github.com/customermates/customermates)
@@ -189,6 +282,9 @@ Curating the best open-source alternatives for famous apps.
 - [Wire](https://github.com/wireapp)
 - [Crust CRM](https://github.com/crusttech)
 
+### [Square POS](https://squareup.com/us/en/point-of-sale) / [Clover](https://www.clover.com/)
+- [Open Source POS](https://github.com/opensourcepos/opensourcepos)
+
 ### [TeamViewer](https://www.teamviewer.com/)
 - [Apache Guacamole](https://github.com/apache/guacamole-server)
 - [Myrtille](https://github.com/cedrozor/myrtille)
@@ -203,6 +299,19 @@ Curating the best open-source alternatives for famous apps.
 ### [Typeform](https://typeform.com)
 - [OhMyForm](https://github.com/ohmyform)
 - [Super Easy Forms](https://github.com/gkpty/super-easy-forms)
+
+### [WeTransfer](https://wetransfer.com/)
+- [FileShot](https://github.com/FileShot/FileShotZKE)
+
+### [Wispr Flow](https://wisprflow.ai/)
+- [VoiceInk](https://github.com/Beingpax/VoiceInk)
+- [OpenWhispr](https://github.com/OpenWhispr/openwhispr)
+- [FreeFlow](https://github.com/zachlatta/freeflow)
+- [VoiceTypr](https://github.com/ideaplexa/voicetypr)
+- [Yap](https://github.com/FrigadeHQ/yap)
+
+### [Workona](https://workona.com/) / [Toby](https://www.gettoby.com/)
+- [Tabox](https://github.com/gilgold/tabox)
 
 ### [Youtube](https://youtube.com)
 - [Peertube](https://github.com/Chocobozzz/PeerTube)
