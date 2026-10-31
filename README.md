@@ -309,6 +309,7 @@ Curating the best open-source alternatives for famous apps.
 - [FreeFlow](https://github.com/zachlatta/freeflow)
 - [VoiceTypr](https://github.com/ideaplexa/voicetypr)
 - [Yap](https://github.com/FrigadeHQ/yap)
+- [voiceio](https://github.com/Hugo0/voiceio)
 
 ### [Workona](https://workona.com/) / [Toby](https://www.gettoby.com/)
 - [Tabox](https://github.com/gilgold/tabox)
