@@ -46,6 +46,7 @@ Curating the best open-source alternatives for famous apps.
 - [Postman](#postman)
 - [Quizlet](#quizlet)
 - [Resend](#resend)
+- [S3 Browser](#s3-browser)
 - [Salesforce](#salesforce)
 - [SAP](#sap)
 - [Segment](#segment)
@@ -250,6 +251,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Resend](https://resend.com/)
 - [MailySend](https://github.com/GagnDeep/mailysend)
+
+### [S3 Browser](https://s3browser.com/)
+- [BucketBridge](https://github.com/anupshaw50/BucketBridge)
 
 ### [Salesforce](https://salesforce.com/)
 - [Customermates](https://github.com/customermates/customermates)
