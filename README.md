@@ -186,6 +186,7 @@ Curating the best open-source alternatives for famous apps.
 - [Ultimate Vocal Remover](https://github.com/Anjok07/ultimatevocalremovergui)
 
 ### [Otter.ai](https://otter.ai)
+- [AutoDoc](https://github.com/DuetDisplay/AutoDoc) - Also records the screen, so you can click a note and replay that moment.
 - [Buzz](https://github.com/chidiwilliams/buzz)
 - [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
 - [Meetily](https://github.com/Zackriya-Solutions/meetily)
