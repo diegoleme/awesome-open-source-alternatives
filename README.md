@@ -211,12 +211,15 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 - [Inkscape](https://gitlab.com/inkscape/inkscape)
+- [VectorCraft](https://github.com/storytold/vectorcraft) - Early alpha.
 
 ### [Adobe InDesign](https://www.adobe.com/products/indesign.html)
+- [DesignCraft](https://github.com/storytold/designcraft) - Early alpha.
 - [Scribus](https://github.com/scribusproject/scribus)
 
 ### [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
 - [darktable](https://github.com/darktable-org/darktable)
+- [LightCraft](https://github.com/storytold/lightcraft) - Early alpha.
 - [LightTable](https://github.com/reville/lighttable-digital-darkroom)
 - [RawTherapee](https://github.com/RawTherapee/RawTherapee)
 
@@ -224,6 +227,7 @@ Curating the best open-source alternatives for famous apps.
 - [GIMP](https://gitlab.gnome.org/GNOME/gimp)
 - [Krita](https://invent.kde.org/graphics/krita)
 - [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) - Generative fill for Krita. Needs a GPU.
+- [PhotoCraft](https://github.com/storytold/photocraft) - Early alpha. Opens and saves PSD files.
 
 ### [Canva](https://canva.com)
 - [Penpot](https://github.com/penpot/penpot) - Partial replacement.
@@ -236,6 +240,7 @@ Curating the best open-source alternatives for famous apps.
 - [TRELLIS](https://github.com/microsoft/TRELLIS) - Text or image to 3D. Needs a GPU.
 
 ### [Midjourney](https://midjourney.com) / [DALL·E](https://openai.com/dall-e)
+- [ArtCraft](https://github.com/storytold/artcraft) - Hosted generation uses paid credits.
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) - Runs Flux, SDXL and other image models. Needs a GPU.
 
 ### [Remove.bg](https://remove.bg)
@@ -247,9 +252,11 @@ Curating the best open-source alternatives for famous apps.
 ## Video
 
 ### [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
+- [EffectCraft](https://github.com/storytold/effectcraft) - Early alpha.
 - [Natron](https://github.com/NatronGitHub/Natron)
 
 ### [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
+- [FilmCraft](https://github.com/storytold/filmcraft) - Early alpha. Can't open .prproj files.
 - [Kdenlive](https://invent.kde.org/multimedia/kdenlive)
 - [Shotcut](https://github.com/mltframework/shotcut)
 
@@ -275,6 +282,7 @@ Curating the best open-source alternatives for famous apps.
 ### [Adobe Acrobat](https://www.adobe.com/acrobat.html)
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
+- [PdfCraft](https://github.com/storytold/pdfcraft) - Early alpha.
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
 ### [DeepL](https://deepl.com)
