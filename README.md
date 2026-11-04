@@ -384,6 +384,7 @@ Curating the best open-source alternatives for famous apps.
 - [AFFiNE](https://github.com/toeverything/AFFiNE)
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 - [Outline](https://github.com/outline/outline)
+- [Worktable](https://github.com/worktable/worktable-dev) - Workspace for people and agents to create docs, drawings, structured records, and discussions.
 
 ### [Pocket](https://getpocket.com) / [Instapaper](https://instapaper.com)
 - [Readeck](https://codeberg.org/readeck/readeck)
