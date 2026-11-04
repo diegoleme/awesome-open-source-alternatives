@@ -173,6 +173,8 @@ Curating the best open-source alternatives for famous apps.
 ### [Perplexity](https://perplexity.ai)
 - [Vane](https://github.com/ItzCrazyKns/Vane) - Formerly Perplexica. Pair it with [SearXNG](https://github.com/searxng/searxng) for search.
 
+- [Kortix](https://github.com/kortix-ai/suna) - The open-source CompanyOS: agents, skills, memory and connectors in one git repo you own, with each session on its own cloud computer. Open source, any model, on your infrastructure or ours.
+
 ## Audio and Voice
 
 ### [ElevenLabs](https://elevenlabs.io)
