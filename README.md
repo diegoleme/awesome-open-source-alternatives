@@ -110,6 +110,7 @@ Curating the best open-source alternatives for famous apps.
   - [Fivetran](#fivetran)
   - [Google Analytics](#google-analytics)
   - [Hotjar / Mixpanel](#hotjar--mixpanel)
+  - [Power BI / Tableau](#power-bi--tableau)
   - [Segment](#segment)
 - [Marketing and Sales](#marketing-and-sales)
   - [Apollo.io / Outreach](#apolloio--outreach)
@@ -566,6 +567,11 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Hotjar](https://hotjar.com) / [Mixpanel](https://mixpanel.com)
 - [PostHog](https://github.com/PostHog/posthog)
+
+### [Power BI](https://www.microsoft.com/power-platform/products/power-bi) / [Tableau](https://www.tableau.com)
+- [Apache Superset](https://github.com/apache/superset)
+- [Metabase](https://github.com/metabase/metabase)
+- [Open Report](https://github.com/cracky777/openreport)
 
 ### [Segment](https://segment.com)
 - [RudderStack](https://github.com/rudderlabs/rudder-server)
