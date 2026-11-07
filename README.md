@@ -358,6 +358,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [WeTransfer](https://wetransfer.com)
 - [FileShot](https://github.com/FileShot/FileShotZKE)
+- [anon.li Drop](https://github.com/anondotli/anon.li)
 
 ## Notes and Productivity
 
@@ -601,6 +602,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Typeform](https://typeform.com)
 - [Formbricks](https://github.com/formbricks/formbricks)
+- [anon.li Form](https://github.com/anondotli/anon.li)
 
 ## Publishing and Social
 
