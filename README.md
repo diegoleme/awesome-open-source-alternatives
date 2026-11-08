@@ -67,6 +67,7 @@ Curating the best open-source alternatives for famous apps.
   - [Evernote](#evernote)
   - [Feedly](#feedly)
   - [Miro](#miro)
+  - [Milanote](#milanote)
   - [Notion](#notion)
   - [Pocket / Instapaper](#pocket--instapaper)
   - [Todoist](#todoist)
@@ -379,6 +380,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Miro](https://miro.com)
 - [tiko](https://github.com/tiko-run/tiko)
+
+### [Milanote](https://milanote.com)
+- [Khaoyu Note](https://github.com/dezuhan/khaoui-note)
 
 ### [Notion](https://notion.so)
 - [AFFiNE](https://github.com/toeverything/AFFiNE)
