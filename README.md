@@ -658,6 +658,7 @@ Curating the best open-source alternatives for famous apps.
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop)
 - [Saleor](https://github.com/saleor/saleor)
 - [Shopaholic](https://github.com/oc-shopaholic/oc-shopaholic-plugin)
+- [ShopNex](https://github.com/shopnex-ai/shopnex) - Self-hosted store with admin, Liquid-themed storefront, checkout, API and webhooks.
 - [Sylius](https://github.com/Sylius/Sylius)
 - [WooCommerce](https://github.com/woocommerce/woocommerce)
 
