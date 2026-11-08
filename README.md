@@ -281,6 +281,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Adobe Acrobat](https://www.adobe.com/acrobat.html)
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+- [Paperwing](https://github.com/rohanvijaykumar/paperwing) - Desktop app for Windows and macOS.
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
 - [PdfCraft](https://github.com/storytold/pdfcraft) - Early alpha.
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)
