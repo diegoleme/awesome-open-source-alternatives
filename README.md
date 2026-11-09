@@ -230,6 +230,7 @@ Curating the best open-source alternatives for famous apps.
 - [PhotoCraft](https://github.com/storytold/photocraft) - Early alpha. Opens and saves PSD files.
 
 ### [Canva](https://canva.com)
+- [Paperwall](https://github.com/manoharys/paperwall) - Posts, slides, posters and print from templates. One HTML file, works offline, exports PNG, PDF, PPTX, GIF and video.
 - [Penpot](https://github.com/penpot/penpot) - Partial replacement.
 
 ### [Figma](https://figma.com)
