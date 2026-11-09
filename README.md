@@ -49,6 +49,7 @@ Curating the best open-source alternatives for famous apps.
   - [Quizlet](#quizlet)
 - [Media and Entertainment](#media-and-entertainment)
   - [Audible](#audible)
+  - [Chess.com](#chesscom)
   - [Kindle Unlimited](#kindle-unlimited)
   - [Netflix](#netflix)
   - [Spotify](#spotify)
@@ -313,6 +314,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Audible](https://audible.com)
 - [Audiobookshelf](https://github.com/advplyr/audiobookshelf)
+
+### [Chess.com](https://www.chess.com)
+- [Patzer](https://github.com/SikamikanikoBG/patzer) - Self-hosted chess platform: play Stockfish or a friend, review your own Chess.com and Lichess games, and ask an AI coach running on your local Ollama or vLLM model. One Docker container.
 
 ### [Kindle Unlimited](https://www.amazon.com/kindle-dbs/hz/subscribe/ku)
 - [Calibre-Web](https://github.com/janeczku/calibre-web)
