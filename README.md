@@ -495,6 +495,7 @@ Curating the best open-source alternatives for famous apps.
 - [Bruno](https://github.com/usebruno/bruno)
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Formerly Postwoman.
 - [Voiden](https://github.com/VoidenHQ/voiden)
+- [Wayfarer](https://github.com/AshwinSathian/wayfarer) - Runs in a browser tab, no account.
 
 ### [Resend](https://resend.com)
 - [MailySend](https://github.com/GagnDeep/mailysend)
