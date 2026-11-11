@@ -280,6 +280,7 @@ Curating the best open-source alternatives for famous apps.
 ## Documents and Writing
 
 ### [Adobe Acrobat](https://www.adobe.com/acrobat.html)
+- [Nyxiontech PDF Tools](https://github.com/jurecki007/nyxiontech-tools) - Merge, split, sign, OCR and redact in the browser; nothing is uploaded.
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
 - [PdfCraft](https://github.com/storytold/pdfcraft) - Early alpha.
