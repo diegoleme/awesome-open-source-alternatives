@@ -262,6 +262,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Descript](https://descript.com)
 - [auto-editor](https://github.com/WyattBlue/auto-editor) - Removes silences automatically.
+- [Captionshaper](https://github.com/hollowbit-dev/captionshaper) - Offline auto-subtitles with word-timed captions.
 
 ### [HeyGen](https://heygen.com) / [D-ID](https://d-id.com)
 - [LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Needs a GPU.
@@ -280,6 +281,7 @@ Curating the best open-source alternatives for famous apps.
 ## Documents and Writing
 
 ### [Adobe Acrobat](https://www.adobe.com/acrobat.html)
+- [Fileshaper](https://github.com/hollowbit-dev/fileshaper) - Desktop app; merges, compresses and signs PDFs offline.
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
 - [PdfCraft](https://github.com/storytold/pdfcraft) - Early alpha.
@@ -290,6 +292,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Grammarly](https://grammarly.com)
 - [LanguageTool](https://github.com/languagetool-org/languagetool)
+- [Writeshaper](https://github.com/hollowbit-dev/writeshaper) - Desktop app for Mac and Windows; the model runs offline.
 
 ### [Marked](https://marked2app.com)
 - [Glim](https://github.com/glimapp/glim) - macOS Markdown preview with Mermaid diagrams, formulas and basic source editing.
