@@ -371,6 +371,7 @@ Curating the best open-source alternatives for famous apps.
 ### [Evernote](https://evernote.com)
 - [Joplin](https://github.com/laurent22/joplin) - Includes OCR for attachments.
 - [Koru](https://github.com/koruworks/mono)
+- [Noteriv](https://github.com/thejacedev/Noteriv) - Markdown notes kept as plain files on your disk, with an Evernote importer.
 - [Trilium](https://github.com/TriliumNext/Trilium)
 
 ### [Feedly](https://feedly.com)
