@@ -66,6 +66,7 @@ Curating the best open-source alternatives for famous apps.
   - [Calendly](#calendly)
   - [Evernote](#evernote)
   - [Feedly](#feedly)
+  - [Glean](#glean)
   - [Miro](#miro)
   - [Notion](#notion)
   - [Pocket / Instapaper](#pocket--instapaper)
@@ -376,6 +377,10 @@ Curating the best open-source alternatives for famous apps.
 ### [Feedly](https://feedly.com)
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS)
 - [Miniflux](https://github.com/miniflux/v2)
+
+### [Glean](https://glean.com)
+- [Onyx](https://github.com/onyx-dot-app/onyx) - Enterprise search and chat across company apps; MIT-licensed Community Edition.
+- [PipesHub](https://github.com/pipeshub-ai/pipeshub-ai) - Enterprise search with cited answers across workplace apps; respects source permissions and works with local models.
 
 ### [Miro](https://miro.com)
 - [tiko](https://github.com/tiko-run/tiko)
