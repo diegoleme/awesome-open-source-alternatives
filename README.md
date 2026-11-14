@@ -665,6 +665,7 @@ Curating the best open-source alternatives for famous apps.
 - [Open Source POS](https://github.com/opensourcepos/opensourcepos)
 
 ### [Zendesk](https://www.zendesk.com)
+- [Colliedesk](https://github.com/colliedesk/colliedesk) - Helpdesk for small teams, with Freshdesk and Help Scout importers.
 - [Faveo](https://github.com/faveosuite/faveo-helpdesk)
 - [FreeScout](https://github.com/freescout-help-desk/freescout)
 - [Handesk](https://github.com/BadChoice/handesk)
