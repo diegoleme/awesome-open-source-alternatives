@@ -169,6 +169,7 @@ Curating the best open-source alternatives for famous apps.
 ### [NotebookLM](https://notebooklm.google)
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
 - [Open Notebook](https://github.com/lfnovo/open-notebook)
+- [SourceWeft](https://github.com/SourceWeft/SourceWeft) - Self-hostable workspace for cited answers over PDFs, web pages, YouTube and connected sources. Apache-2.0 core; the `enterprise/` directory is separately licensed.
 
 ### [Perplexity](https://perplexity.ai)
 - [Vane](https://github.com/ItzCrazyKns/Vane) - Formerly Perplexica. Pair it with [SearXNG](https://github.com/searxng/searxng) for search.
