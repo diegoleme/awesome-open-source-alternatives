@@ -220,6 +220,7 @@ Curating the best open-source alternatives for famous apps.
 ### [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
 - [darktable](https://github.com/darktable-org/darktable)
 - [LightCraft](https://github.com/storytold/lightcraft) - Early alpha.
+- [Lightshaper](https://github.com/hollowbit-dev/lightshaper) - RAW editing with masks, looks and Lightroom preset import.
 - [LightTable](https://github.com/reville/lighttable-digital-darkroom)
 - [RawTherapee](https://github.com/RawTherapee/RawTherapee)
 
