@@ -335,6 +335,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Google Calendar](https://calendar.google.com)
 - [Radicale](https://github.com/Kozea/Radicale) - CalDAV and CardDAV server.
+- [SilentSuite](https://github.com/silent-suite/silentsuite) - End-to-end encrypted sync for calendars, contacts and tasks, built on Etebase.
 
 ### [Google Docs](https://docs.google.com)
 - [Collabora Online](https://github.com/CollaboraOnline/online)
