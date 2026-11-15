@@ -52,6 +52,7 @@ Curating the best open-source alternatives for famous apps.
   - [Kindle Unlimited](#kindle-unlimited)
   - [Netflix](#netflix)
   - [Spotify](#spotify)
+  - [TuneIn](#tunein)
   - [Twitch](#twitch)
   - [YouTube](#youtube)
 - [Cloud Storage and Office](#cloud-storage-and-office)
@@ -324,6 +325,9 @@ Curating the best open-source alternatives for famous apps.
 ### [Spotify](https://spotify.com)
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - For your own music library.
 - [Navidrome](https://github.com/navidrome/navidrome) - For your own music library.
+
+### [TuneIn](https://tunein.com)
+- [Open Media Explorer](https://github.com/aivrar/Open-Media-Explorer) - Portable Windows app for internet radio, live TV and podcasts.
 
 ### [Twitch](https://twitch.tv)
 - [Owncast](https://github.com/owncast/owncast)
