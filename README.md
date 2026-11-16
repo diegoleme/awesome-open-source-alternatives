@@ -140,6 +140,7 @@ Curating the best open-source alternatives for famous apps.
 - [Personal and Home](#personal-and-home)
   - [Alexa / Google Home](#alexa--google-home)
   - [Flightradar24](#flightradar24)
+  - [Keepa](#keepa)
   - [MyFitnessPal](#myfitnesspal)
   - [Paprika](#paprika)
   - [Ring](#ring)
@@ -680,6 +681,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Flightradar24](https://www.flightradar24.com)
 - [Velocity](https://github.com/AndrewCTF/velocity)
+
+### [Keepa](https://keepa.com)
+- [truediscount](https://github.com/emirmrkaljevic/truediscount) - Price history and fake-discount check for EU shops (Firefox, Chrome-based browsers, userscript). Local-only, no Amazon price alerts.
 
 ### [MyFitnessPal](https://myfitnesspal.com)
 - [wger](https://github.com/wger-project/wger)
