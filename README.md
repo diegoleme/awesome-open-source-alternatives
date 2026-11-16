@@ -139,6 +139,7 @@ Curating the best open-source alternatives for famous apps.
   - [Zendesk](#zendesk)
 - [Personal and Home](#personal-and-home)
   - [Alexa / Google Home](#alexa--google-home)
+  - [Cozi](#cozi)
   - [Flightradar24](#flightradar24)
   - [MyFitnessPal](#myfitnesspal)
   - [Paprika](#paprika)
@@ -677,6 +678,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Alexa](https://alexa.amazon.com) / [Google Home](https://home.google.com)
 - [Home Assistant](https://github.com/home-assistant/core)
+
+### [Cozi](https://www.cozi.com)
+- [OpenFamily](https://github.com/NexaFlowFrance/OpenFamily) - Self-hosted family calendar, chores, shopping lists and meal planning.
 
 ### [Flightradar24](https://www.flightradar24.com)
 - [Velocity](https://github.com/AndrewCTF/velocity)
