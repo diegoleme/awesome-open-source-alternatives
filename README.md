@@ -189,6 +189,7 @@ Curating the best open-source alternatives for famous apps.
 - [Buzz](https://github.com/chidiwilliams/buzz)
 - [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
 - [Meetily](https://github.com/Zackriya-Solutions/meetily)
+- [Purr](https://github.com/iamarunbrahma/purr) - Mac only. Records calls without a bot joining.
 - [Vibe](https://github.com/thewh1teagle/vibe)
 - [WhisperX](https://github.com/m-bain/whisperX) - Adds speaker diarization.
 - [YazSes](https://github.com/MSKazemi/yazses)
@@ -203,6 +204,7 @@ Curating the best open-source alternatives for famous apps.
 ### [Wispr Flow](https://wisprflow.ai)
 - [FreeFlow](https://github.com/zachlatta/freeflow)
 - [OpenWhispr](https://github.com/OpenWhispr/openwhispr)
+- [Purr](https://github.com/iamarunbrahma/purr) - Mac only.
 - [VoiceInk](https://github.com/Beingpax/VoiceInk)
 - [VoiceTypr](https://github.com/ideaplexa/voicetypr)
 - [Yap](https://github.com/FrigadeHQ/yap)
