@@ -403,6 +403,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Zapier](https://zapier.com)
 - [Activepieces](https://github.com/activepieces/activepieces)
+- [EXTREMELY Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) - Free, open-source autonomous AI agency that runs on your own computer.
 - [Huginn](https://github.com/huginn/huginn)
 - [n8n](https://github.com/n8n-io/n8n) - Uses a fair-code license, not an OSI-approved one.
 
