@@ -153,6 +153,7 @@ Curating the best open-source alternatives for famous apps.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - Needs a local model or an LLM API.
 
 ### [ChatGPT](https://chatgpt.com) / [Claude](https://claude.ai)
+- [Off Grid AI](https://github.com/off-grid-ai/OGAD) - Desktop app for chat, image generation and voice with open models on your own machine. Optional paid Pro features.
 - [Ollama](https://github.com/ollama/ollama) - Run open models locally. Local models are below frontier quality and need a good GPU.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Chat interface for Ollama and OpenAI-compatible APIs.
 
