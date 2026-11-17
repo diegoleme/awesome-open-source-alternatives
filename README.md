@@ -555,6 +555,7 @@ Curating the best open-source alternatives for famous apps.
 - [dlt](https://github.com/dlt-hub/dlt)
 - [ingestr](https://github.com/bruin-data/ingestr)
 - [Meltano](https://github.com/meltano/meltano)
+- [OLake](https://github.com/datazip-inc/olake-go)
 
 ### [Google Analytics](https://analytics.google.com)
 - [Ackee](https://github.com/electerious/Ackee)
