@@ -654,6 +654,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Shopify](https://shopify.com)
 - [Bagisto](https://github.com/bagisto/bagisto)
+- [GoCommerce](https://github.com/misiki-in/gocommerce) - Go commerce engine with an embedded admin panel; [Svelte Commerce](https://github.com/misiki-in/svelte-commerce) is its storefront.
 - [Medusa](https://github.com/medusajs/medusa)
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop)
 - [Saleor](https://github.com/saleor/saleor)
