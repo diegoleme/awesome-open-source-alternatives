@@ -195,6 +195,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Speechify](https://speechify.com)
 - [Kokoro](https://github.com/hexgrad/kokoro)
+- [Narrata](https://github.com/Kernel-Hunter/narrata) - Reads PDFs, EPUBs and web pages aloud with word highlighting. The voice runs in your browser, so nothing is uploaded. Web app and Chrome extension.
 
 ### [Suno](https://suno.com)
 - [ACE-Step](https://github.com/ace-step/ACE-Step) - Needs a GPU. Quality is well below Suno.
