@@ -283,6 +283,7 @@ Curating the best open-source alternatives for famous apps.
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
 - [PdfCraft](https://github.com/storytold/pdfcraft) - Early alpha.
+- [PDkef](https://github.com/shlomsh/pdkef) - Browser-based PDF tools (sign, redact, merge, split, compress); files never leave the device.
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
 ### [DeepL](https://deepl.com)
