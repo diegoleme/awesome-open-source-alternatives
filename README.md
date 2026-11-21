@@ -650,6 +650,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [SAP](https://www.sap.com)
 - [ERPNext](https://github.com/frappe/erpnext)
+- [Granary](https://github.com/halogass/Granary-ERP) - Self-hosted ERP with an AI assistant whose actions wait for a person to approve.
 - [Odoo](https://github.com/odoo/odoo)
 
 ### [Shopify](https://shopify.com)
