@@ -290,6 +290,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Grammarly](https://grammarly.com)
 - [LanguageTool](https://github.com/languagetool-org/languagetool)
+- [Localix Grammar](https://github.com/localixai/localix-grammar) - Chrome extension that proofreads with an OpenRouter model on your own key.
 
 ### [Marked](https://marked2app.com)
 - [Glim](https://github.com/glimapp/glim) - macOS Markdown preview with Mermaid diagrams, formulas and basic source editing.
