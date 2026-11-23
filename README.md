@@ -244,6 +244,7 @@ Curating the best open-source alternatives for famous apps.
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) - Runs Flux, SDXL and other image models. Needs a GPU.
 
 ### [Remove.bg](https://remove.bg)
+- [goodbye.bg](https://github.com/kevinebaugh/goodbye.bg) - Web app; the model runs in the browser (WebGPU or WebAssembly).
 - [rembg](https://github.com/danielgatis/rembg)
 
 ### [Topaz Photo AI](https://topazlabs.com)
