@@ -271,6 +271,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Opus Clip](https://www.opus.pro)
 - [AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator)
+- [Clipshaper](https://github.com/hollowbit-dev/clipshaper) - Desktop app that finds the best moments, follows the speaker and adds captions.
 - [FunClip](https://github.com/modelscope/FunClip)
 - [OpenShorts](https://github.com/mutonby/openshorts)
 
