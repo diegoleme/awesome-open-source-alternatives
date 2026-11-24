@@ -187,6 +187,7 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Otter.ai](https://otter.ai)
 - [Buzz](https://github.com/chidiwilliams/buzz)
+- [EarScribe](https://github.com/rocnubie/earscribe-free-speech-to-text) - Browser-based Whisper transcription; audio never leaves the device.
 - [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
 - [Meetily](https://github.com/Zackriya-Solutions/meetily)
 - [Vibe](https://github.com/thewh1teagle/vibe)
