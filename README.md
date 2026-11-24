@@ -510,6 +510,7 @@ Curating the best open-source alternatives for famous apps.
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi)
 
 ### [UptimeRobot](https://uptimerobot.com)
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Self-hosted website monitoring with uptime history, TLS and domain expiry checks, and public status pages.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma)
 
 ## Hosting and Infrastructure
