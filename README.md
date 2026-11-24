@@ -70,6 +70,7 @@ Curating the best open-source alternatives for famous apps.
   - [Notion](#notion)
   - [Pocket / Instapaper](#pocket--instapaper)
   - [Todoist](#todoist)
+  - [Toggl Track](#toggl-track)
   - [Trello](#trello)
   - [Workona / Toby](#workona--toby)
   - [Zapier](#zapier)
@@ -391,6 +392,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Todoist](https://todoist.com)
 - [Vikunja](https://github.com/go-vikunja/vikunja)
+
+### [Toggl Track](https://toggl.com/track/)
+- [Clockoli](https://github.com/Clockoli/clockoli) - Free, Git-native time tracking for teams, with reports and invoicing. Requires a GitHub account.
 
 ### [Trello](https://trello.com)
 - [Kanboard](https://github.com/kanboard/kanboard)
