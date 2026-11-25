@@ -378,6 +378,7 @@ Curating the best open-source alternatives for famous apps.
 - [Miniflux](https://github.com/miniflux/v2)
 
 ### [Miro](https://miro.com)
+- [Slatebox](https://github.com/Slatebox/slatebox) - Whiteboards, mind maps and flowcharts for teams and agents. MIT except `enterprise/`.
 - [tiko](https://github.com/tiko-run/tiko)
 
 ### [Notion](https://notion.so)
