@@ -399,6 +399,7 @@ Curating the best open-source alternatives for famous apps.
 - [Wekan](https://github.com/wekan/wekan)
 
 ### [Workona](https://workona.com) / [Toby](https://www.gettoby.com)
+- [Stackboard](https://github.com/swole/stackboard) - Chrome new tab that lays out your bookmarks as stacks and saves open tabs as plain bookmarks. Optional paid Pro features.
 - [Tabox](https://github.com/gilgold/tabox)
 
 ### [Zapier](https://zapier.com)
