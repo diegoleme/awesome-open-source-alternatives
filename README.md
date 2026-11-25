@@ -631,6 +631,7 @@ Curating the best open-source alternatives for famous apps.
 ### [Hubspot](https://www.hubspot.com)
 - [Customermates](https://github.com/customermates/customermates)
 - [Erxes](https://github.com/erxes/erxes)
+- [Reloop](https://github.com/reloopcrm/reloop) - CRM that reads your email history and finds past customers worth winning back.
 - [Twenty](https://github.com/twentyhq/twenty)
 
 ### [Intercom](https://intercom.com)
