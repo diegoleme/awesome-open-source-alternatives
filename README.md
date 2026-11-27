@@ -543,6 +543,7 @@ Curating the best open-source alternatives for famous apps.
 - [OpenFaaS](https://github.com/openfaas/faas)
 - [Peon](https://github.com/Peon-sh/Peon)
 - [Tsuru](https://github.com/tsuru/tsuru)
+- [Tugra](https://github.com/SimerayCom/tugra)
 
 ### [Netlify](https://netlify.com)
 - [Coolify](https://github.com/coollabsio/coolify)
