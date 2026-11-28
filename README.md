@@ -15,6 +15,7 @@ Curating the best open-source alternatives for famous apps.
   - [Perplexity](#perplexity)
 - [Audio and Voice](#audio-and-voice)
   - [ElevenLabs](#elevenlabs)
+  - [Flat / Noteflight](#flat--noteflight)
   - [Lalal.ai](#lalalai)
   - [Otter.ai](#otterai)
   - [Speechify](#speechify)
@@ -181,6 +182,9 @@ Curating the best open-source alternatives for famous apps.
 - [pyVideoTrans](https://github.com/jianchang512/pyvideotrans) - Video dubbing and translation.
 - [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice changer. Needs a GPU.
 - [XTTS](https://github.com/idiap/coqui-ai-TTS) - Text to speech and voice cloning. Needs a GPU.
+
+### [Flat](https://flat.io) / [Noteflight](https://www.noteflight.com)
+- [Ploq](https://github.com/specialith/ploq-app) - Desktop notation app based on MuseScore. Several people edit the same score at once. Hosting is free for 5 scores and paid above that, or self-host the sync server.
 
 ### [Lalal.ai](https://lalal.ai)
 - [Ultimate Vocal Remover](https://github.com/Anjok07/ultimatevocalremovergui)
