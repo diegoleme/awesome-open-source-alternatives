@@ -157,6 +157,7 @@ Curating the best open-source alternatives for famous apps.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Chat interface for Ollama and OpenAI-compatible APIs.
 
 ### [Gamma](https://gamma.app)
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Creates editable PPTX decks from a brief or documents in a local-first desktop workspace. Requires model access.
 - [Presenton](https://github.com/presenton/presenton)
 
 ### [GitHub Copilot](https://github.com/features/copilot) / [Cursor](https://cursor.com)
