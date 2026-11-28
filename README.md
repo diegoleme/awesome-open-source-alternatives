@@ -119,6 +119,7 @@ Curating the best open-source alternatives for famous apps.
   - [Common Room / Pocus](#common-room--pocus)
   - [Linktree](#linktree)
   - [Mailchimp](#mailchimp)
+  - [Profound / Peec AI](#profound--peec-ai)
   - [SurveyMonkey](#surveymonkey)
   - [Typeform](#typeform)
 - [Publishing and Social](#publishing-and-social)
@@ -595,6 +596,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Mailchimp](https://mailchimp.com)
 - [Listmonk](https://github.com/knadh/listmonk)
+
+### [Profound](https://www.tryprofound.com) / [Peec AI](https://peec.ai)
+- [OpenAEO](https://github.com/XenetDev/openaeo) - Tracks how AI answer engines mention and cite a brand. Runs locally.
 
 ### [SurveyMonkey](https://surveymonkey.com)
 - [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)
